@@ -1,0 +1,15 @@
+#p1 {
+  text-align: center;
+  color: red;
+}
+
+#header {
+  text-align: left;
+  background-color: yellow;
+  padding: 25px 50px 75px 100px;
+}
+
+.row {
+  display: flex;
+  align-items: left;
+}
